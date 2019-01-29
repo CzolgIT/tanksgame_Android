@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SDL2/SDL2.iml" filepath="$PROJECT_DIR$/SDL2/SDL2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDL2_image/SDL2_image.iml" filepath="$PROJECT_DIR$/SDL2_image/SDL2_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDL2_png/SDL2_png.iml" filepath="$PROJECT_DIR$/SDL2_png/SDL2_png.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanksgame_Android.iml" filepath="$PROJECT_DIR$/tanksgame_Android.iml" />
+    </modules>
+  </component>
+</project>
